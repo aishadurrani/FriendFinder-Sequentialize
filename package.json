@@ -1,0 +1,25 @@
+{
+  "name": "friendfinder-sequentialize",
+  "version": "1.0.0",
+  "description": "friend finder HW 15",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "body-parser": "^1.15.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aishadurrani/FriendFinder-Sequentialize.git"
+  },
+  "author": "\"Aisha Durrani\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aishadurrani/FriendFinder-Sequentialize/issues"
+  },
+  "homepage": "https://github.com/aishadurrani/FriendFinder-Sequentialize#readme"
+}
